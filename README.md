@@ -1,2 +1,2 @@
 # WebAppFlask
-Base for web projects with Flask
+This is a base for web projects with Flask
